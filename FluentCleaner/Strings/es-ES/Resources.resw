@@ -866,7 +866,7 @@ Elegir Groq, OpenAI o Anthropic. No se envía nada sin la acción explícita del
     <value>Mi Limpiador</value>
   </data>
   <data name="DlgNewCleanerAiPlaceholder" xml:space="preserve">
-    <value>Generar con IA - describe qué limpiar (el resultado puede variar)</value>
+    <value>Generar con IA - describir qué limpiar (el resultado puede variar)</value>
   </data>
   <data name="DlgNewCleanerGenerate.Content" xml:space="preserve">
     <value>Generar</value>
