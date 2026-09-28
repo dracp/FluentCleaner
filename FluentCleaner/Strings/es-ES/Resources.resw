@@ -197,7 +197,7 @@
 Elegir Groq, OpenAI o Anthropic. No se envía nada sin la acción explícita del usuario. Requiere clave API propia.</value>
   </data>
   <data name="LblAICustomHint.Text" xml:space="preserve">
-    <value>💡 Una vez guardada la clave, la página Limpiadores personalizados también activa la IA — describir lo que se desea limpiar y se generará una entrada Winapp2 o un script de PowerShell listo para usar.</value>
+    <value>💡 Una vez guardada la clave, la página Limpiadores personalizados también activa la IA — describir lo que se desea limpiar y 'Generar' una entrada Winapp2 o un script de PowerShell listo para usar.</value>
   </data>
   <data name="ResultsHeader.Text" xml:space="preserve">
     <value>Resultados</value>
